@@ -1,0 +1,14 @@
+name: quran_noor
+description: نور القلوب صدقة جارية لروح المرحوم ناصر عزيز - بدون اعلانات
+publish_to: none
+version: 3.0.0+1
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  quran: ^1.2.1
+  just_audio: ^0.9.40
+  shared_preferences: ^2.2.2
+flutter:
+  uses-material-design: true
